@@ -1,1 +1,5 @@
-
+The purpose of this project was to test my hand at creating a basic iOS app for teachers inside their classroom.
+This project stemed from my college course that required me to write a report about the development and design of any kind of project 
+we wanted to. This was my project, I wanted to create an app that teachers could use inside of their class room to help them organize 
+things. Inside of the project is a lot of SwiftUI view files that contain the basic prototype layout of the app. Nothing in this is 
+final and there would be a long way to go for me to complete this project. 
